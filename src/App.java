@@ -27,7 +27,7 @@ public class App {
             }
         }
 
-        System.out.println("Spelet är slut. Hoppas du överlevde!");
+        System.out.println("Din telefon ringer och du dör av en hjärtattack");
     }
 }
 }
